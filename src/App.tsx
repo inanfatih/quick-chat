@@ -13,8 +13,8 @@ function App() {
               path='/'
               element={
                 <div className='home'>
-                  <h2>Welcome to ChatSimple</h2>
-                  <p>The simplest way to chat with your customers</p>
+                  <h2>Welcome to QuickChat</h2>
+                  <p>The quickest way to chat with your customers</p>
                   <nav className='buttons'>
                     <Link to='/login' className='button'>
                       Log in
